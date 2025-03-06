@@ -78,6 +78,8 @@ ansible all -i inventory.ini -m ping
 
 If successful, each host will return a `pong` response.
 
+![ansible pong response](ss/01.png "ansible pong response")
+
 ---
 
 ## **Step 4: Running Ad-Hoc Commands**
